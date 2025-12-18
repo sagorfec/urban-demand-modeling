@@ -1,0 +1,6 @@
+
+dataset:
+  name: PGCB Hourly Generation Dataset
+  source: UCI Machine Learning Repository
+  doi: 10.24432/C59P6V
+  license: CC BY 4.0

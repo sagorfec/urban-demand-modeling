@@ -1,0 +1,5 @@
+
+dataset:
+  name: Microsoft Global Building Footprints
+  source: Microsoft Open Data
+  license: ODbL
